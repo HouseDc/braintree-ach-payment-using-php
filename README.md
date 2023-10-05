@@ -1,5 +1,6 @@
 # braintree-ach-payment-using-php
-A php code for the ACH payment at braintree. This payment option only available for the united state merchant that deal in US dollar 
+A php code for the ACH payment at braintree. This payment option only available for the united state merchant that deal in US dollar .
+refer to master for the code
 
 **See the Requirment before start:**
 1. A braintree account
@@ -10,5 +11,5 @@ A php code for the ACH payment at braintree. This payment option only available 
 2. gd enabled maybe
 
 For further detail see Braintree ACH Payment Documentation
-
+**If error occur in project remove the vendor folder and run cmd with 'composer install'**
 https://developer.paypal.com/braintree/docs/guides/ach/overview
