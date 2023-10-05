@@ -10,6 +10,8 @@ refer to master for the code
 1. php version higher are equall to 7.3.3
 2. gd enabled maybe
 
+3. **If error occur in project remove the vendor folder and run cmd with 'composer install'**
+
 For further detail see Braintree ACH Payment Documentation
-**If error occur in project remove the vendor folder and run cmd with 'composer install'**
+
 https://developer.paypal.com/braintree/docs/guides/ach/overview
